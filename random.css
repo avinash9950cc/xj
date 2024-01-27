@@ -1,0 +1,68 @@
+.header {
+    background-image: url(images/mainpicture/WhatsApp\ Image\ 2024-01-26\ at\ 20.41.48.jpeg);
+    background-color: #111;
+    top: 0px;
+    background-position: center;
+    background-size: cover;
+    
+    background-position-y:0px ;
+
+}
+
+
+
+.header {
+    min-height: 100vh;
+    background-color: #111;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.header .box {
+    max-width: 100%;
+    min-width: 300px;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.header .box h1 {
+    color: #fff;
+    text-align: center;
+    justify-content: center;
+
+}
+
+.header .box .btn {
+    padding: 0.25rem 1rem;
+    border: 1px solid #fff;
+    margin-right: 1rem;
+    text-decoration: none;
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 14px;
+    color: #fff;
+    margin-bottom: 20px;
+}
+
+.box{
+color: black;
+
+}
+.header .container .box {
+    text-align: center;
+    justify-content: center;
+    
+}
+.ccontainer {
+    padding: 0px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    color: #000;
+    width: 100%;
+    
+}
